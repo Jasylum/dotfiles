@@ -1,0 +1,14 @@
+set recolor
+set guioptions ""
+set recolor-lightcolor \#2e3440
+set default-bg \#2e3440
+set adjust-open "best-fit"
+set scroll-page-aware "true"
+set sandbox none
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+map K zoom in
+map R rotate
+map r reload
+map J zoom out
+set selection-clipboard clipboard
