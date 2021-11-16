@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(int argc, int **argv)
+{
+  short c, num;
+
+  for(num = 0; c 
+}

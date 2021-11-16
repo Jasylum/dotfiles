@@ -26,26 +26,26 @@ export VIDEO="mpv"
 export IMAGE="sxiv"
 export WM="bspwm"
 export VISUAL="nvim"
-export SUDO_EDITOR="nvim"
+export SUDO_EDITOR="vim"
 
-alias ls='ls --color=auto'
-alias ls='lsd'
-alias v='nvim'
-alias sudo v='nvim'
-alias n='ncmpcpp'
+alias mux='pgrep -vx tmux > /dev/null && \
+		tmux new -d -s delete-me && \
+		tmux run-shell ~/.tmux/plugins/tmux-resurrect/scripts/restore.sh && \
+		tmux kill-session -t delete-me && \
+		tmux attach || tmux attach'
+alias lv='nvim'
+alias ls='logo-ls'
 alias lg='lazygit'
-alias fetch='rxfetch'
 alias ..='cd ..'
 alias rm='rm -rfi'
+alias lla='exa -la'
 alias vi='vim'
-alias mkdir='mkdir -p'
-alias configg='/usr/bin/git --git-dir=/home/jibesh/dotfiles --work-tree=/home/jibesh'
 
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 ##### Prompt #####
 alias config='/usr/bin/git --git-dir=/home/jibesh/config --work-tree=/home/jibesh'
+
+alias luamake=/home/jibesh/lua-language-server/3rd/luamake/luamake

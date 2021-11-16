@@ -1,0 +1,15 @@
+{"message":"Preferences loaded from /home/jibesh/.config/pomotroid/user-preferences.json","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:14:01.473Z"}
+{"message":"app ready","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:14:01.588Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:14:01.682Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:14:01.683Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:14:01.684Z"}
+{"message":"Preferences loaded from /home/jibesh/.config/pomotroid/user-preferences.json","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:14:02.085Z"}
+{"message":"focus round round started","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:17:30.618Z"}
+{"message":"focus round completed","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:57:30.622Z"}
+{"message":"short break round started","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:57:32.136Z"}
+{"message":"short break round paused","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:57:37.791Z"}
+{"message":"short break round started","level":"info","hostname":"jibesh","timestamp":"2021-09-11T08:58:47.780Z"}
+{"message":"short break completed","level":"info","hostname":"jibesh","timestamp":"2021-09-11T09:05:42.781Z"}
+{"message":"focus round round started","level":"info","hostname":"jibesh","timestamp":"2021-09-11T09:05:44.289Z"}
+{"message":"focus round round paused","level":"info","hostname":"jibesh","timestamp":"2021-09-11T09:33:34.028Z"}
+{"message":"quitting app...","level":"info","hostname":"jibesh","timestamp":"2021-09-11T09:42:58.225Z"}

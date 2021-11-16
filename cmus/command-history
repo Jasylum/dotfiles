@@ -1,0 +1,5 @@
+q
+bind -f common u shell ~/scripts/update-library.sh
+update
+set status_display_program=/usr/local/bin/cmus-notify
+add ~/Music/

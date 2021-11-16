@@ -1,0 +1,29 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/jibesh/.config/pomotroid/logs/.95bef491f2949fc63c0a311515893c8814746b66-audit.json",
+    "files": [
+        {
+            "date": 1630561018670,
+            "name": "/home/jibesh/.config/pomotroid/logs/pomotroid-2021-09-02.log",
+            "hash": "de449674093ddbe249e1d59167a12d32"
+        },
+        {
+            "date": 1630743753885,
+            "name": "/home/jibesh/.config/pomotroid/logs/pomotroid-2021-09-04.log",
+            "hash": "367e7cf71914aa6758876700c943fe41"
+        },
+        {
+            "date": 1630917029368,
+            "name": "/home/jibesh/.config/pomotroid/logs/pomotroid-2021-09-06.log",
+            "hash": "7f3bd949bc0bfa38a5a64fbf04796059"
+        },
+        {
+            "date": 1631348041468,
+            "name": "/home/jibesh/.config/pomotroid/logs/pomotroid-2021-09-11.log",
+            "hash": "5f60aca9a3413cf7dbfff63ffe2bbede"
+        }
+    ]
+}

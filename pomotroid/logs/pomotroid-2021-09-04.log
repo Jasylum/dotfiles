@@ -1,0 +1,7 @@
+{"message":"Preferences loaded from /home/jibesh/.config/pomotroid/user-preferences.json","level":"info","hostname":"jibesh","timestamp":"2021-09-04T08:22:33.889Z"}
+{"message":"app ready","level":"info","hostname":"jibesh","timestamp":"2021-09-04T08:22:34.006Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"jibesh","timestamp":"2021-09-04T08:22:34.113Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"jibesh","timestamp":"2021-09-04T08:22:34.114Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"jibesh","timestamp":"2021-09-04T08:22:34.115Z"}
+{"message":"Preferences loaded from /home/jibesh/.config/pomotroid/user-preferences.json","level":"info","hostname":"jibesh","timestamp":"2021-09-04T08:22:34.506Z"}
+{"message":"quitting app...","level":"info","hostname":"jibesh","timestamp":"2021-09-04T08:22:39.117Z"}

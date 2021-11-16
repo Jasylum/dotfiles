@@ -1,0 +1,33 @@
+font:
+  # Normal (roman) font face
+  normal:
+    family: "JetBrainsMono Nerd Fonts"
+    style: Regular
+
+  # Bold font face
+  bold:
+    family: "JetBrainsMono Nerd Fonts"
+    #style: Bold
+
+  # Italic font face
+  italic:
+    family: "JetBrainsMono Nerd Fonts"
+    #style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: "JetBrainsMono Nerd Fonts"
+    #style: Bold Italic
+
+  # Point size
+  size: 9
+
+  # Offset
+  #offset:
+  #  x: 0
+  #  y: 0
+
+  # Glyph offset
+  #glyph_offset:
+  #  x: 0
+  #  y: 0

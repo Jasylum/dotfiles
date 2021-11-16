@@ -1,0 +1,6 @@
+;; -*- emacs-lisp -*- <21/11/16 18:36:05 /home/jibesh/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; Run `M-x tramp-cleanup-all-connections' instead.
+
+(((tramp-file-name "sudo" "root" nil "localhost" nil nil nil)
+  nil))
